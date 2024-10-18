@@ -1,0 +1,263 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container .opshi .home1 nav ul li {
+  list-style: none;
+}
+.container .opshi .ijtimoiy {
+  padding: 0px 0px 0px 160px;
+}
+.container .aside {
+  padding: 20px;
+  border-radius: 15px;
+}
+.container .aside .chap {
+  background-color: #E7FAFE;
+  border-radius: 20px;
+  border: none;
+}
+.container .aside .chap .text {
+  padding: 50px 0px;
+}
+.container .aside .chap .zzz {
+  width: 300px;
+}
+.container .aside .chap .tugma {
+  padding: 8px 10px;
+  border-radius: 20px;
+  border: none;
+}
+.container .aside .chap .icon .tugma2 {
+  border-radius: 20px;
+  border: 2px solid rgba(11, 9, 84, 0.253);
+  padding: 5px 10px;
+}
+.container .aside .chap .profil {
+  padding: 100px 0px 0px 0px;
+}
+.container .aside .chap .profil .tugma1 {
+  background-color: black;
+  border-radius: 15px;
+  border: none;
+  color: white;
+  padding: 12px;
+}
+.container .aside .ong img {
+  border-radius: 20px;
+  border: none;
+}
+.container .aside .ong .zor {
+  bottom: 110px;
+  left: 40px;
+}
+.container .aside .ong .zor3 {
+  bottom: 105px;
+  left: 35px;
+}
+.container .main {
+  bottom: 200px;
+}
+.container .main .cat {
+  padding: 30px 0px;
+}
+.container .main .cat .All {
+  padding: 15px;
+  background-color: #E7FAFE;
+  border: none;
+  border-radius: 10px;
+}
+.container .main .aralash {
+  padding: 30px 0px 80px 0px;
+}
+.container .main .aralash .brak {
+  background: linear-gradient(180deg, rgba(112, 130, 70, 0) 0%, rgba(112, 130, 70, 0.1) 100%);
+  border-radius: 15px;
+  padding: 20px;
+}
+.container .main .aralash .vegan {
+  background: linear-gradient(180deg, rgba(108, 198, 63, 0) 0%, rgba(108, 198, 63, 0.1) 100%);
+  border-radius: 15px;
+  padding: 20px;
+}
+.container .main .aralash .meat {
+  background: linear-gradient(180deg, rgba(204, 38, 27, 0) 0%, rgba(204, 38, 27, 0.1) 100%);
+  border-radius: 15px;
+  padding: 20px;
+}
+.container .main .aralash .dess {
+  background: linear-gradient(180deg, rgba(240, 158, 0, 0) 0%, rgba(240, 158, 0, 0.1) 100%);
+  border-radius: 15px;
+  padding: 20px;
+}
+.container .main .aralash .lunch {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.05) 100%);
+  border-radius: 15px;
+  padding: 20px;
+}
+.container .main .aralash .choco {
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.05) 100%);
+  border-radius: 15px;
+  padding: 20px;
+}
+.container .main .simple {
+  text-align: center;
+}
+.container .main .taomlar .big {
+  background-color: #E7FAFE;
+  border-radius: 20px;
+}
+.container .main .taomlar .big .big2 img {
+  border-radius: 20px;
+}
+.container .main .taomlar .big .big2 h5 {
+  padding: 15px 0px;
+}
+.container .main .container {
+  padding: 50px 0px 50px 0px;
+}
+.container .main .container .text .tugma3 .quti {
+  background-color: black;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 15px;
+}
+.container .main .container .oshpazz {
+  background-color: #E7FAFE;
+  border-radius: 20px;
+}
+.container .main .container .sabzavotlar .gosh {
+  left: 700px;
+  top: 70px;
+}
+.container .main .container .sabzavotlar .piyoz {
+  left: 1050px;
+  top: 0px;
+}
+.container .main .container .sabzavotlar .pamidor {
+  left: 560px;
+  top: 200px;
+}
+.container .main .container .sabzavotlar .karam {
+  left: 1150px;
+}
+.container .main .check {
+  padding: 50px 0px;
+}
+.container .main .container2 {
+  background-color: #E7FAFE;
+}
+.container .main .container2 .katta-insta .insta {
+  background-color: #FFFFFF;
+}
+.container .main .container2 .katta-insta .insta .card-headers {
+  padding: 10px;
+  background-color: #FFFFFF;
+}
+.container .main .container2 .katta-insta .insta .card-headers .ffff img {
+  height: 70%;
+  width: 100%;
+}
+.container .main .container2 .katta-insta .insta .card-headers .ffff .tokyo {
+  font-size: 15px;
+  padding: 0px 0px 0px 10px;
+}
+.container .main .container2 .katta-insta .insta .card-headers .ffff .tokyo p {
+  padding: 0px 0px 0px 5px;
+}
+.container .main .container2 .katta-insta .insta .layklar .insta2 {
+  padding: 0px 10px 0px 10px;
+}
+.container .main .container2 .katta-insta .insta .layklar .insta2 .layk {
+  color: black;
+  padding: 10px 0px;
+}
+.container .main .container2 .katta-insta .insta .layklar .insta2 .cament {
+  padding: 10px 0px 0px 0px;
+}
+.container .main .container2 .katta-insta .insta .layklar .sew {
+  padding: 0px 10px;
+}
+.container .main .container2 .katta-insta .insta .layklar .sep {
+  padding: 0px 10px;
+  color: rgba(0, 0, 0, 0.41);
+}
+.container .main .container2 .iii {
+  text-align: center;
+  padding: 50px 0px;
+}
+.container .main .container2 .iii .insta3 {
+  padding: 20px;
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+}
+.container .main .container3 {
+  padding: 50px 0px;
+}
+.container .main .container3 .header1 {
+  padding: 50px 0px;
+}
+.container .main .container3 .fast-fut1 .mixed .mix {
+  padding: 10px 0px;
+}
+.container .main .container3 .fast-fut1 .mixed .yon {
+  padding: 30px 0px 0px 0px;
+}
+.container .main .container4 {
+  background-color: #E7FAFE;
+  border-radius: 20px;
+}
+.container .main .container4 .text-oxiri {
+  padding: 100px 0px 0px 0px;
+}
+.container .main .container4 .text-oxiri p {
+  padding: 20px 0px;
+}
+.container .main .container4 .uchta .bbbbb {
+  width: 33.3%;
+}
+.container .main .container4 .uchta .oooo {
+  width: 66.6%;
+}
+.container .main .container4 .uchta .tugma4 {
+  width: 50%;
+}
+.container .main .container4 .uchta .tugma4 .your {
+  width: 1000px;
+  background-color: #FFFFFF;
+  padding: 20px 10px 20px 20px;
+  border-radius: 20px;
+  border: none;
+  position: relative;
+  top: 200px;
+}
+.container .main .container4 .uchta .tugma4 .your p {
+  position: relative;
+  top: 22px;
+  right: 50px;
+}
+.container .main .container4 .uchta .tugma4 .your .sub {
+  padding: 20px 40px;
+  background-color: black;
+  color: white;
+  border-radius: 20px;
+  border: none;
+}
+.container .main .container4 .uchta .rasm2 {
+  left: 145px;
+  top: 135px;
+  width: 50%;
+}
+.container .main .container5 {
+  padding: 100px 0px;
+}
+.container .main .container5 .navv nav ul {
+  display: flex;
+  gap: 30px;
+}
+.container .main .container5 .navv nav ul li {
+  list-style: none;
+}/*# sourceMappingURL=style.css.map */
